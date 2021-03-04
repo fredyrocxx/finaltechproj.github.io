@@ -1,0 +1,113 @@
+{
+  
+  "products" : [
+  { 
+    "id":1,
+    "categoryId":1,
+    "brand":"Poco",
+    "image": "/assets/img/oneplus.jpg",
+    "description": "SMART PHONE",
+    "productName": "Oneplus",
+    "price": "80000",
+    "rating":5,
+    "isAvailable":true
+  },
+  {
+    "id":2,
+    "categoryId":2,
+    "brand":"Google",
+    "image": "/assets/img/pixel.jpg",
+    "description": "SMART PHONE",
+    "productName": "Pixel3a",
+    "price": "80000",
+    "rating":5,
+    "isAvailable":true
+  },
+  {
+    "id":3,
+    "categoryId":3,
+    "brand":"Apple",
+    "image": "assets/img/iphone8+.jpg",
+    "description": "SMART PHONE",
+    "productName": "iphone8+",
+    "price": "80000",
+    "rating":5,
+    "isAvailable":true
+  },
+  {
+    "id":4,
+    "categoryId":4,
+    "brand":"NeverSettle",
+    "image": "/assets/img/oneplus.jpg",
+    "description": "SMART PHONE",
+    "productName": "Oneplus",
+    "price": "80000",
+    "rating":5,
+    "isAvailable":true
+  },
+  {
+    "id":5,
+    "categoryId":5,
+    "brand":"Samsung",
+   "image": "/assets/img/samsungalaxy.jpg",
+    "description": "SMART PHONE",
+    "productName": "Galaxy",
+    "price": "90000",
+    "rating":5,
+    "isAvailable":true
+  },
+  {
+    "id":6,
+    "categoryId":6,
+    "brand":"Apple",
+    "image": "assets/img/iphone7s.jpg",
+    "description": "SMART PHONE",
+    "productName": "iphone7s",
+    "price": "80000",
+    "rating":5,
+    "isAvailable":true
+  },
+  {
+    "id":7,
+    "categoryId":7,
+    "brand":"NeverSettle",
+    "image": "/assets/img/one.jpg",
+    "description": "SMART PHONE",
+    "productName": "Oneplus",
+    "price": "80000",
+    "rating":5,
+    "isAvailable":true
+  },
+  {
+    "id":8,
+    "categoryId":8,
+    "brand":"Google",
+    "image": "/assets/img/pixel4XL.jpg",
+    "description": "SMART PHONE",
+    "productName": "Pixel4XL",
+    "price": "80000",
+    "rating":5,
+    "isAvailable":true
+  },
+  {
+    "id":9,
+    "categoryId":9,
+    "brand":"Apple",
+    "image": "assets/img/iphonex.jpg",
+    "description": "SMART PHONE",
+    "productName": "iphoneX",
+    "price": "80000",
+    "rating":5,
+    "isAvailable":true
+  }
+  
+  ],
+  "categories" :[
+    {"id":1,"categoryName":"apple"},
+    {"id":2,"categoryName":"samsung"},
+    {"id":3,"categoryName":"oppo"},
+    {"id":4,"categoryName":"poco"},
+    {"id":5,"categoryName":"realme"}
+    ]
+
+}

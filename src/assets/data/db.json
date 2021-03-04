@@ -1,0 +1,75 @@
+{
+  
+  "products" : [
+  {
+    "image": "/assets/img/oneplus.jpg",
+    "title": "SMART PHONE",
+    "phone_name": "Oneplus",
+    "price": "80000"
+  },
+  {
+    "brand":"Google",
+   "image": "/assets/img/pixel.jpg",
+    "title": "SMART PHONE",
+    "phone_name": "Pixel3a",
+    "price": "80000"
+  },
+  {
+    "brand":"Apple",
+    "image": "assets/img/iphone8+.jpg",
+    "title": "SMART PHONE",
+    "phone_name": "iphone8+",
+    "price": "80000"
+  },
+  {
+    "brand":"NeverSettle",
+    "image": "/assets/img/oneplus.jpg",
+    "title": "SMART PHONE",
+    "phone_name": "Oneplus",
+    "price": "80000"
+  },
+  {
+    "brand":"Samsung",
+   "image": "/assets/img/samsungalaxy.jpg",
+    "title": "SMART PHONE",
+    "phone_name": "Galaxy",
+    "price": "90000"
+  },
+  {
+    "brand":"Apple",
+    "image": "assets/img/iphone7s.jpg",
+    "title": "SMART PHONE",
+    "phone_name": "iphone7s",
+    "price": "80000"
+  },
+  {
+    "brand":"NeverSettle",
+    "image": "/assets/img/oneplus.jpg",
+    "title": "SMART PHONE",
+    "phone_name": "Oneplus",
+    "price": "80000"
+  },
+  {
+    "brand":"Google",
+   "image": "/assets/img/pixel4XL.jpg",
+    "title": "SMART PHONE",
+    
+    "phone_name": "Pixel4XL",
+    "price": "80000"
+  },
+  {
+    "brand":"Apple",
+    "image": "assets/img/iphonex.jpg",
+    "title": "SMART PHONE",
+    "phone_name": "iphoneX",
+    "price": "80000"
+  }
+  
+  ],
+  "categories" :[
+    {"id":1,"categoryName":"apple"},
+    {"id":2,"categoryName":"samsung"},
+    {"id":3,"categoryName":"oppo"}
+    ]
+
+}
